@@ -16,6 +16,8 @@ https://heltonmaia.com/pythonbook/intro.html
 
 ## – Exercício 01 –
 
+Arquivo: `lista1_ex01.py`
+
 ### Enunciado
 
 Escreva um programa que imprima a famosa mensagem do mundo da programação.
@@ -30,12 +32,14 @@ Hello World!
 ### Resolução
 
 ```python
-print("Olá Mundo!")
+print("Hello World!!")
 ```
 
 ---
 
 ## – Exercício 02 –
+
+Arquivo: `lista1_ex02.py`
 
 ### Enunciado
 
@@ -43,10 +47,15 @@ Neste exercício, você deve ler duas entradas: o nome de um aluno e sua matríc
 
 ### Exemplo de saída esperada
 
-Entrada:
+**Entrada:**
+
 Python da Silva
+
 2024123456
-Saída: Olá Python da Silva Matrícula: 2024123456 Seja bem vindo!
+
+**Saída:**
+
+Olá Python da Silva Matrícula: 2024123456 Seja bem vindo!
 
 ### Resolução
 
@@ -64,6 +73,8 @@ print(f"Olá {nome} Matrícula: {matricula} Seja bem-vindo!")
 
 ## – Exercício 03 –
 
+Arquivo: `lista1_ex03.py`
+
 ### Enunciado
 
 1. Informações de um Pedido. Crie um programa que deve ler quatro entradas do usuário:
@@ -77,12 +88,15 @@ Em seguida, exiba uma mensagem formatada informando os detalhes da compra, inclu
 
 ### Exemplo de saída esperada
 
-Entrada:
+**Entrada:**
+
 Ana Souza  
 Livro de Python  
 1
-45.50  
+45.50
+
 Saída:
+
 Pedido confirmado: Livro de Python
 Valor total: R$ 45.50
 Obrigado pela preferência!
